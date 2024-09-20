@@ -1,7 +1,6 @@
 # Priyanshu Kumar Dua's Portfolio
 
-Welcome to my portfolio! I’m Priyanshu Kumar Dua, a final-year Computer Engineering student passionate about data science, full-stack development, and IT support. This portfolio showcases my projects, skills, and experiences in the world of tech.
-
+Welcome to my portfolio! I’m Priyanshu Kumar Dua, a recent Computer Engineering graduate with a passion for data science, full-stack development, and IT support. This portfolio showcases my projects, skills, and experiences in the world of tech.
 ### 🌐 Live Demo: [priyanshu.netlify.app](https://priyanshu.netlify.app)
 
 ---
